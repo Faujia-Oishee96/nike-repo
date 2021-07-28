@@ -1,0 +1,14 @@
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.bg-color{
+    background-color: rgb(248, 206, 213);
+}
+.fa-shopping-cart{
+    color: white;
+    margin-top: 5px;
+    margin-right: 5px;
+}
